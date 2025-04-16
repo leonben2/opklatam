@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>LATAM</desc>
+	<servicetype>brazil</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+	
+    <connection>
+        <display>PoseidonRO</display>
+        <desc>None</desc>
+        <address>127.0.0.1</address>
+        <port>6900</port>
+        <taaddress>35.199.111.15:6951</taaddress>
+        <version>1</version>
+        <aid>
+        </aid>
+    </connection>
+</clientinfo>
