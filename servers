@@ -1,0 +1,28 @@
+# This file contains information about master servers.
+
+# To change displayed string in server list, use "title" option.
+
+# Do not change server identifiers (in []),
+# except for when subservers were changed or reordered
+# in such a way it requires user confirmation to correctly select a subserver
+
+#####################
+# Official RO Servers
+[Ragnarok Online]
+title LATAM 35.199.111.15
+ip 35.199.111.15
+port 6951
+OTP_ip 35.199.111.15
+OTP_port 6900
+gameguard 1
+master_version 22066
+version 1
+secureLogin 0
+secureLogin_type 0
+secureLogin_requestCode
+secureLogin_account 0
+serverType Zero
+serverEncoding Korean
+charBlockSize 155
+gameGuard 1
+addTableFolders kRO/Zero;kRO
